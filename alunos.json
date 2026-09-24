@@ -1,0 +1,22 @@
+[{
+    "nome": "João Silva",
+    "curso": "Engenharia de Software"
+},
+{
+    "nome": "Maria Oliveira",
+    "curso": "Ciência da Computação"
+},
+
+{
+    "nome": "Pedro Santos",
+    "curso": "Sistemas de Informação"
+},
+{
+    "nome": "Ana Costa",
+    "curso": "Engenharia de Computação"
+},
+
+{
+    "nome": "Lucas Pereira",
+    "curso": "Análise e Desenvolvimento de Sistemas"
+}]
